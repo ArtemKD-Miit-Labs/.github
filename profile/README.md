@@ -1,5 +1,8 @@
 # Лабораторные РУТ МИИТ 💻
 
+## 5 курс
+- 🌐 [Веб-программирование](https://github.com/ArtemKD-Miit-Labs/web-programming)
+
 ## 3 курс
 - 🤖 [Машинно-ориентированные языки программирования](https://github.com/ArtemKD-Miit-Labs/MOYZ-Labs)
 - 🔐 [Теоретико-числовые методы в криптографии](https://github.com/ArtemKD-Miit-Labs/TNMCrypto-Labs)
